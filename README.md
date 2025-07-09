@@ -7,7 +7,7 @@
 
 <h3> 🗞️ Projects </h3>
 
-* Welcome to my portfolio, this is where i showcased my projects and learnings.
+* Welcome to my portfolio, this is where i showcased my [projects and learnings](https://github.com/chuajustin/chuajustin.github.io/blob/main/README.md).
 
 <h3> 🔨 Tools</h3>
 
