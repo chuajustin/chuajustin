@@ -1,6 +1,7 @@
 <h2>👋 Hi there </h2>
-- 👀 I’m interested to be a data analyst that's proficient in tableau, python and SQL
-- 🌱 I’m currently learning data analyst immersive bootcamp at General Assembly
+
+* 👀 I’m interested to be a data analyst that's proficient in tableau, python and SQL
+* 🌱 I’m currently learning data analyst immersive bootcamp at General Assembly
 
 
 <!---
