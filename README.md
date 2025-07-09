@@ -2,8 +2,20 @@
 
 * 👀 I'm a former markerter turned data analyst.
 * 🌱 I've done my learning data analyst immersive bootcamp at General Assembly for 3 Months from June 2024 - Sept 2024.
-* ℹ️ Querying using MYSQL
+* ℹ️ Querying data using SQL
 * 🪟 Developing dashboard using PowerBI
+
+<h3> 🗞️ Projects </h3>
+
+* Welcome to my portfolio, this is where i showcased my projects and learnings.
+
+<h3> Tools</h3>
+
+* Languages: SQL, Python
+* Database: mySQL
+* Visualization: PowerBI
+
+
   
 
 
