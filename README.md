@@ -9,7 +9,7 @@
 
 * Welcome to my portfolio, this is where i showcased my projects and learnings.
 
-<h3> Tools</h3>
+<h3> 🔨 Tools</h3>
 
 * Languages: SQL, Python
 * Database: mySQL
