@@ -1,7 +1,10 @@
 <h2>👋 Hi there </h2>
 
-* 👀 I’m interested to be a data analyst that's proficient in tableau, python and SQL
-* 🌱 I’m currently learning data analyst immersive bootcamp at General Assembly
+* 👀 I'm a former markerter turned data analyst.
+* 🌱 I've done my learning data analyst immersive bootcamp at General Assembly for 3 Months from June 2024 - Sept 2024.
+* ℹ️ Querying using MYSQL
+* 🪟 Developing dashboard using PowerBI
+  
 
 
 <!---
